@@ -1,8 +1,9 @@
 # NATVENT-N2O-py
-Python functions for calculating N2O emission from measurements made on naturally ventilated dairy barns
-One module "N2O_emission_for_all_farms.py" with functions used in different scripts containing data from
-7 different naturally ventilated dairy barns for two measurements periods one during a summer period and one 
-during a winter period = 14 different scripts 
-The scripts was used to characterize N2O emissions from barns with different manure handling systems and under
-different environmental conditions (summer and winter period). The emission calculation is based on using CO2 as
-a natural tracer gas for using the tracer ratio method. 
+Python functions for calculating N2O emission from measurements made on naturally ventilated dairy barns all from an R&D project on N2O emission by Ida Marie Blok Nielsen completed in fall 2025.
+
+# Maintainer
+Sasha D. Hafner.
+Contact information here: <https://au.dk/sasha.hafner@bce>.
+
+# Related repo
+See the private <https://github.com/AU-BCE-EE/Nielsen-2025-NATVENT-N2O> repo for application of the same Python code, with input and output data included.
